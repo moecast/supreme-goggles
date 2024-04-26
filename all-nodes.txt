@@ -1,0 +1,2 @@
+1.  大陆三网+教育网 IPv4 单线程测速
+https://raw.githubusercontent.com/moecast/supreme-goggles/list/china3cedu-1t-v4.txt
