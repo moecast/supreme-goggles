@@ -1,0 +1,9 @@
+大陆三网+教育网 IPv4 单线程测速，v2024-03-15
+bim-core,电信 四川成都       ,http://speedtest1.sc.189.cn:8080/download http://speedtest1.sc.189.cn:8080/upload
+bim-core,电信 江苏南京 5G    ,http://5gnanjing.speedtest.jsinfo.net:8080/download http://5gnanjing.speedtest.jsinfo.net:8080/upload 
+bim-core,移动 北京           ,http://speedtest.bmcc.com.cn:8080/download http://speedtest.bmcc.com.cn:8080/upload
+bim-core,移动 广东深圳       ,http://speedtest.sz.gd.shunshiidc.com:8080/download http://speedtest.sz.gd.shunshiidc.com:8080/upload
+bim-core,移动 广州深圳 5G    ,http://speedtest1.dpdfsd.com:8080/download http://speedtest1.dpdfsd.com:8080/upload
+bim-core,联通 福建福州       ,http://upload1.testspeed.cdn16.com:8080/download http://upload1.testspeed.cdn16.com:8080/upload
+bim-core,联通 上海 5G        ,http://5g.shunicomtest.com:8080/download http://5g.shunicomtest.com:8080/upload
+bim-core,广电 重庆           ,http://speedtest1.cqccn.com:8080/download http://speedtest1.cqccn.com:8080/upload
